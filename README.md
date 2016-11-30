@@ -7,4 +7,3 @@ The only query supported is counting the number of intervals stabbed by a given 
 Attached is also a sample program (**intervals.py**) that reads a file containing the intervals and another one containing the queries (give a look to the example files in the *test* folder).
 
 In the source code you can find comments regarding the complexity analysis of the algorithm to construct a balanced interval-tree (I use a different argument to make the case compared to the one used in textbooks which is rather unintuitive in my opinion and does not please me since it looks *magic*).
-I have done the same regarding the algorithm for query answering which is easier to see.
